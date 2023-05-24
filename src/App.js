@@ -1,10 +1,10 @@
 import { Outlet } from "react-router-dom";
-import Search from "./components/Search";
+import SearchHeader from "./components/SearchHeader";
 
 function App() {
   return (
     <>
-      <Search />
+      <SearchHeader />
       <Outlet />
     </>
   );
