@@ -5,7 +5,7 @@ export default function Videos() {
   const { keyword } = useParams();
   return (
     <>
-      <h2>{keyword ? `Videos 🔍 ${keyword}` : `Videos 🔥`}</h2>
+      <h2>Videos {keyword ? `🔍 ${keyword}` : `🔥`}</h2>
     </>
   );
 }
