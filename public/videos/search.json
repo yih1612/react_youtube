@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XM6I28WcNVL5nE2CWaNPLBecA0w",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 281869,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LiX0dN1ABpYtWHtO5pTzhQkTBV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7vbJHE7xy7o"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-23T14:35:47Z",
+        "channelId": "UCliRjcwaUW-ozT9TeYTfoug",
+        "title": "🌼일본 최초 스트리밍 1억 달성한 레전드곡 : Aimyon(아이묭) - Marigold (마리골드) [가사/해석/번역/lyrics]",
+        "description": "인스타엔 올 초에 한번 올렸었는데 유튜브에 이제서야 들고 오네요! 주변 친구들한테 맨날 아이묭 노래 들으라고 추천만 했었는데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vbJHE7xy7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vbJHE7xy7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vbJHE7xy7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쏘플 soso playlist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-23T14:35:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kQNsP1zicu7elNRyZRmI4b_CMYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ltwazF77Owg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T13:29:45Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "[직키픽🔥🔥] 사랑을 전하고 싶다든가: あいみょん(aimyon) - 愛を伝えたいだとか (Ai wo Tsutaetaidatoka) (2017) [가사해석/번역]",
+        "description": "jpop #노래추천 #가사해석 이 노래를 올리게 될 줄이야... 2017년에 발매한 뒤로부터 쭉 사랑해 마지않는 아이묭의 '사랑을 전하고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T13:29:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cse_jhfaMzBHtV_2XGQr2LoinM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xbc6eDHmXkE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-06T12:15:06Z",
+        "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 아이묭의 노래를 전하고 싶다든가 | 아이묭 노래 모음 あいみょん",
+        "description": "플레이리스트 #playlist #아이묭 #Aimyon #あいみょん #아이묭플리 #jpop #제이팝.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-06T12:15:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KwkEbj4mW0S-s3DTy5I-3QjrTIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0xSiBpUdW4E"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-17T23:00:01Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】",
+        "description": "\"いま会いたい人は誰ですか？\" 2018年8月8日発売 5thシングル「マリーゴールド」MUSIC VIDEO Music Video Staff ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0xSiBpUdW4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0xSiBpUdW4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0xSiBpUdW4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-17T23:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FdP5o7r3EeZLX5XQZwoEOOImb78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JuyQQUqD64c"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T11:00:12Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん – 愛の花【OFFICIAL MUSIC VIDEO】",
+        "description": "NHK 2023年前期 連続テレビ小説「らんまん」主題歌 「愛の花」MUSIC VIDEOが5月10日(水)20時にプレミア公開決定！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuyQQUqD64c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuyQQUqD64c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuyQQUqD64c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-10T11:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gol9J7vedVSHA6blHkSrzyjdIZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BOO5rKaofz8"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-26T01:00:04Z",
+        "channelId": "UC9tCb2aQPuYnMjJPE1mWGqg",
+        "title": "【Aimyon】あいみょん メドレー | あいみょん メドレー  | Best Songs Of Aimyon 2022",
+        "description": "aimyon #jpop #邦楽 ----------------------------------------- 私があなたに勧める他の歌手！ それらのいずれかが気に入った場合は、以下の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOO5rKaofz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOO5rKaofz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOO5rKaofz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Japanese Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-26T01:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jc4LOzsYUzlItUibsVQe7BtluAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aLTtvgXMZyA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-11T09:30:10Z",
+        "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+        "title": "아이묭 (Aimyon, あいみょん) - 사랑을 전하고 싶다든가 (愛を伝えたいだとか) 가사 번역 뮤직비디오",
+        "description": "아이묭 (Aimyon, あいみょん) - 사랑을 전하고 싶다든가 (Ai wo Tsutaetaidatoka, 愛を伝えたいだとか) 가사 번역 뮤직비디오 *음원 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLTtvgXMZyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLTtvgXMZyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLTtvgXMZyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-11T09:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6hgLbqseDJTGyFavCOpf7oGxK0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQHHA4SSXtg"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-11T10:00:07Z",
+        "channelId": "UCQVhrypJhw1HxuRV4gX6hoQ",
+        "title": "あいみょん – マリーゴールド【AIMYON BUDOKAN -1995-】",
+        "description": "AIMYON BUDOKAN -1995- 特設サイト http://www.aimyong.net/feature/budokan1995_special 2019年10月2日(水)発売 AIMYON ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQHHA4SSXtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQHHA4SSXtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQHHA4SSXtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-11T10:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DDNrEZIuj7GyP29tDedZLsUvx2M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJnO-Y_YnFg"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-23T10:00:23Z",
+        "channelId": "UCQVhrypJhw1HxuRV4gX6hoQ",
+        "title": "あいみょん – 君はロックを聴かない 【AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA】",
+        "description": "7月8日(水) 発売！Blu-ray/DVD「AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA」より、「君はロックを ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJnO-Y_YnFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJnO-Y_YnFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJnO-Y_YnFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-23T10:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aQSlLQ1YHByTF10y_DPhNULZaEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ihhdNqG32cw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T11:20:10Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "[직키픽🔥🔥] 너는 록을 듣지 않아: あいみょん(Aimyon) - 君はロックを聴かない (Kimi Wa Rock Wo Kikanai) (2017) [가사해석/번역]",
+        "description": "jpop #노래추천 #가사해석 제목을 보면 왠지 요즘 애들은 말이야...? 가 나올 것 같지만 실제 가사는 너무나도 풋풋한 추억으로 가득한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T11:20:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9DSvWJkfTch-3Q-1jdjUuUnjlc0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5-l2SSNo4oA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T17:13:32Z",
+        "channelId": "UCt0RWdbqwPns7wQopw0CYNw",
+        "title": "[𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩] ✔이 가수 알아? 아이묭 노래 모음 😏 l Aimyon Playlist",
+        "description": "본 영상은 수익을 창출하지 않습니다. * 원하시는 노래 모음이 있으시다면 언제든지 문의 주시기 바랍니다. ✓ 문의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5-l2SSNo4oA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5-l2SSNo4oA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5-l2SSNo4oA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "고미네 gomine",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T17:13:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wUrVstHkER2PPhj677h9thdmSnc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9qRCARM_LfE"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-20T03:00:00Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】",
+        "description": "2017年5月3日発売 2ndシングル「愛を伝えたいだとか」MUSIC VIDEO！！ 「狭い部屋とそこにあるモノで楽曲を表現する」 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9qRCARM_LfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9qRCARM_LfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9qRCARM_LfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-20T03:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y7HzRryJZUj83WvAmrqfi9TutIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3NGdEiuTloM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T06:00:01Z",
+        "channelId": "UCQVhrypJhw1HxuRV4gX6hoQ",
+        "title": "あいみょん – ユラユラ【AIMYON TOUR 2022 &quot;ま・あ・る&quot; IN PIA ARENA MM】",
+        "description": "Blu-ray/DVD「AIMYON TOUR 2022 \"ま・あ・る\" IN PIA ARENA MM」5月17日(水) 発売！ 詳細こちらから ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3NGdEiuTloM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3NGdEiuTloM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NGdEiuTloM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T06:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4bVQSzk5vycGBKsi35bOS1XxSHY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pfGI91CFtRg"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-02T23:00:02Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん – ハルノヒ【OFFICIAL MUSIC VIDEO】",
+        "description": "4月17日(水)CD発売 7thシングル「ハルノヒ」MUSIC VIDEO 「映画クレヨンしんちゃん 新婚旅行ハリケーン ～失われた ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pfGI91CFtRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pfGI91CFtRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pfGI91CFtRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-02T23:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XQvVlr0WgvOqMP6EtmAvXOQH4YM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x6WHG1D-7oo"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T05:28:13Z",
+        "channelId": "UCa9x1wRL5J0jv89AX0jZ1sg",
+        "title": "[Playlist] 아이묭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6WHG1D-7oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6WHG1D-7oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6WHG1D-7oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "K0P1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T05:28:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DvwGkNKb7hjIqGQvLGEcQCS4ZFo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B7ypdHnjlDI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-26T12:02:30Z",
+        "channelId": "UCc04PZRufpCa3CcDSpju-fQ",
+        "title": "역대급 라이브🎸 아이묭 - 사랑을 전하고 싶다든가",
+        "description": "aimyon #아이묭 #사랑을전하고싶다던가 #라이브 100만뷰! 다들 좋아해주셔서 감사합니다 구독자 30명일 때 올린건데 이게 100만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "자막냥이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-26T12:02:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8-OJePiyZC9i_rvnKAfBxPGsXG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rlHTmo50zSI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T03:00:31Z",
+        "channelId": "UCQVhrypJhw1HxuRV4gX6hoQ",
+        "title": "あいみょん – 愛を伝えたいだとか【AIMYON TOUR 2022 &quot;ま・あ・る&quot; IN PIA ARENA MM】",
+        "description": "Blu-ray/DVD「AIMYON TOUR 2022 \"ま・あ・る\" IN PIA ARENA MM」5月17日(水) 発売！ 詳細こちらから ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rlHTmo50zSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rlHTmo50zSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rlHTmo50zSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T03:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0Rl0s49jlJnLLxIR2TY06nB-mLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yOAwvRmVIyo"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-16T23:00:07Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん - 裸の心【OFFICIAL MUSIC VIDEO】",
+        "description": "TBS系 火曜ドラマ「私の家政夫ナギサさん」主題歌 「裸の心」Music Video公開！ 配信はこちら https://apple.co/3pn1Db9 歌詞は ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOAwvRmVIyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOAwvRmVIyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOAwvRmVIyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-16T23:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tva7XLi26JmyGJ0S3ZfU9nRNhgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zQd6EtFVToQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-23T13:51:59Z",
+        "channelId": "UC4bbBTJC1_451X_KnW3P2Tg",
+        "title": "요즘 듣는 J-POP 감성, 아이묭(Aimyon) playlist",
+        "description": "あいみょん 아이묭 (Aimyon) playlist #지녀 #플레이리스트 #playlist - 유튜브 시스템에 의해 자동으로 광고가 포함 될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQd6EtFVToQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQd6EtFVToQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQd6EtFVToQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지녀 𝐆𝐧𝐲𝐞𝐨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-23T13:51:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u8tSlP0vh7dyoezrT1JM__5kTbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tq9Y62uJUfU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T09:30:09Z",
+        "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+        "title": "아이묭 (Aimyon, あいみょん) - Marigold (マリーゴールド) 가사 번역 뮤직비디오",
+        "description": "아이묭 (Aimyon, あいみょん) - Marigold (マリーゴールド) 가사 번역 뮤직비디오 *음원듣기 https://WMK.lnk.to/bo1wiUg2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tq9Y62uJUfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tq9Y62uJUfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tq9Y62uJUfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T09:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j2JWBOMp8sz1wx577X14PtAa0ho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MgY-OY3RjUM"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-09T23:15:33Z",
+        "channelId": "UCQVhrypJhw1HxuRV4gX6hoQ",
+        "title": "あいみょん – ハルノヒ 【AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA】",
+        "description": "7月8日(水) 発売！Blu-ray/DVD「AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA」より、「ハルノヒ」の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgY-OY3RjUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgY-OY3RjUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgY-OY3RjUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-09T23:15:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tww0gqUS7wKMfecSwx2WkK9uVkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RHammOcv3I8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-08T11:49:25Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "밀짚모자를 쓴 너를 닮은🌼: あいみょん (Aimyon) - マリーゴールド (Marigold) (2018) [가사해석/번역]",
+        "description": "마참내,,, 드디어 아이묭의 메가히트곡 메리골드를 올리게 되었네요... 햇빛 쨍쨍 내릴 것만 같은 가사에 반해 여름 장마 같은 뮤직 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RHammOcv3I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RHammOcv3I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RHammOcv3I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-08T11:49:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0zfKcLVD4hxBMrjm0hsrnueFxIc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L8SDe4zgBDo"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T09:00:20Z",
+        "channelId": "UCt_COpqtf6swzmAud6ckTZg",
+        "title": "청량스기루,,, 🧡 아이묭 (Aimyon, あいみょん) - 너는 록을 듣지 않아 (君はロックを聴かない) (가사번역/라이브)",
+        "description": "아이묭 (Aimyon, あいみょん) - 너는 록을 듣지 않아 (君はロックを聴かない) 청량묭.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L8SDe4zgBDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L8SDe4zgBDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L8SDe4zgBDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "여자 노래만 올리는 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T09:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EJAxH9YSFAyMjW3a7E6Yqgd6guI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cuWon2_WOwc"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-08T11:00:10Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん – 初恋が泣いている【OFFICIAL MUSIC VIDEO】",
+        "description": "カンテレ・フジテレビ系月10ドラマ「恋なんて、本気でやってどうするの？」主題歌 「初恋が泣いている」Music Video公開！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cuWon2_WOwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cuWon2_WOwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cuWon2_WOwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-08T11:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vpcOID0s0KIVystSynTZpRi-mj0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ztdpBUDf00o"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-19T23:36:54Z",
+        "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+        "title": "あいみょん – 空の青さを知る人よ【OFFICIAL MUSIC VIDEO】",
+        "description": "10月2日(水)CD発売 9thシングル「空の青さを知る人よ」MUSIC VIDEO 映画「空の青さを知る人よ」劇中主題歌 □配信先は ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ztdpBUDf00o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ztdpBUDf00o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ztdpBUDf00o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "あいみょん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-19T23:36:54Z"
+      }
+    }
+  ]
+}
