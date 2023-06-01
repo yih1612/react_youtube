@@ -1,220 +1,1007 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "eDGUrLhiTXaKxIn2Oa4DhDWItj8",
-  "nextPageToken": "CAUQAA",
+  "etag": "OpueVd6dHhULU8WAMIeX0qp_DtQ",
+  "nextPageToken": "CBkQAA",
   "pageInfo": {
-    "totalResults": 158,
-    "resultsPerPage": 5
+    "totalResults": 147,
+    "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "utVsXWHQ-IUTB0CJuhmBi-NOAFU",
+      "etag": "sgmcs4mn_oSIafDjDHtr3jvk2us",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P_6vDLq64gE"
+        "videoId": "RzRoMzz61dw"
       },
       "snippet": {
-        "publishedAt": "2011-10-13T19:33:04Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to spot a liar | Pamela Meyer",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nOn any given day we're lied to from 10 to 200 times, and the clues to detect those lies can be subtle and counter-intuitive. Pamela Meyer, author of \"Liespotting,\" shows the manners and \"hotspots\" used by those trained to recognize deception -- and she argues honesty is a value worth preserving. (Contains mature content)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2022-06-12T02:20:45Z",
+        "channelId": "UCWfZT-Veo0FCCyq14yQXNGA",
+        "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 한여름밤 여름축제가 끝난 뒤 너와 함께 집으로 가는 길 JPOP | J-POP/플레이리스트🌠",
+        "description": "#jpop #playlist #제이팝 #플레이리스트 \n＊해당 영상의 배경으로 쓰인 영상은 직접 촬영한 영상입니다.\n＊해당 채널의 영상은 비영리 목적으로 일절 수익창출이 없습니다.\n * 해당 영상의 모든 수익은 저작권자에게 돌아갑니다.\n＊구독과 좋아요 댓글은 영상을 만드는데 큰 힘이 됩니다.\n\n썸네일 출처:https://www.pinterest.co.kr/pin/236650155409831025/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/default.jpg",
+            "url": "https://i.ytimg.com/vi/RzRoMzz61dw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RzRoMzz61dw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RzRoMzz61dw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2011-10-13T19:33:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "VRJzvJ5XPQI"
-      },
-      "snippet": {
-        "publishedAt": "2021-10-15T19:29:36Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/RzRoMzz61dw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RzRoMzz61dw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "페이머스 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-15T19:29:36Z"
+        "publishTime": "2022-06-12T02:20:45Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_-MRjGjhinh7LSTtq5m8zQLKJWE",
+      "etag": "6L4wjOQQ4VrzzHALe4ARHngyLwc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Tuw8hxrFBH8"
+        "videoId": "07EfYIHl1pw"
       },
       "snippet": {
-        "publishedAt": "2020-10-21T12:03:31Z",
-        "channelId": "UC9vLdyHatOhRrCwQXq3HmQQ",
-        "title": "One of the Greatest Speeches Ever | Steve Jobs",
-        "description": "Steve Jobs: The Exclusive Biography - https://amzn.to/3zKeTM6\n\n\nSteve Jobs delivers an inspirational speech. Listen to the end for the most life changing quote of all-time. Don't let anyone ever tell you that you cannot achieve your dreams.\n\nYou will be inspired and motivated to go out there and achieve your goals. I hope you all enjoy this motivational video. :)\n\nSpeaker: Steve Jobs\nSteven Paul Jobs was an American business magnate, industrial designer, investor, and media proprietor. He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; the chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT. Jobs is widely recognized as a pioneer of the personal computer revolution of the 1970s and 1980s, along with his early business partner and fellow Apple co-founder Steve Wozniak.\n\n\n-----------------------------------------------------------------------\n\n►Follow Motivation Ark:\nSubscribe for new Motivational Videos every week: https://www.youtube.com/channel/UC9vLdyHatOhRrCwQXq3HmQQ\n\nInstagram: https://www.instagram.com/motivationarkdaily/\nFacebook: https://www.facebook.com/motivationark\nTwitter: https://twitter.com/ark_motivation\n\n►Music: Air - AShamaluevMusic.\nMusic Link: https://youtu.be/8XejGxLizFU\n\nThanks for watching! If you know someone who could use this video, share it with them!\n\n\nAdditional Tags:\nmotivation, motivational video, motivational speech, steve jobs, success motivational video, success motivation, daily motivation, steve jobs success story, successful, inspiration, inspirational video, biography, steve jobs success, celebrity, best success story, best motivational video, success, failure",
+        "publishedAt": "2023-05-06T00:19:02Z",
+        "channelId": "UC4vjRfuuElG_1MGHXGfCP1g",
+        "title": "Playlist | 신카이 마코토 애니 OST ⭐",
+        "description": "00:00:00 Sparkle\n00:06:50 前前前世\n00:11:37 なんでもないや \n00:17:21 Dream Lantern\n00:19:34 愛にできることはまだあるかい \n00:26:27 グランドエスケープ \n00:29:30 风たちの声 \n00:32:08 すずめ \n00:36:07 TAMAKI \n00:41:04 カナタハルカ \n\n#新海誠 #RADWIMPS #君の名は｡ #気の子 #すずめの戸締まり\n\n폰트 - STFangsong , 아리따 부리",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/default.jpg",
+            "url": "https://i.ytimg.com/vi/07EfYIHl1pw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/07EfYIHl1pw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/07EfYIHl1pw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/07EfYIHl1pw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/07EfYIHl1pw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Motivation Ark",
+        "channelTitle": "lyrics",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-21T12:03:31Z"
+        "publishTime": "2023-05-06T00:19:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "h4l6XuRzb4KX74JBZK3Nl8HTuOM",
+      "etag": "4fjENx7X_jXyKBXusjlq-4j3NvU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cef35Fk7YD8"
+        "videoId": "mrLwZniMJsU"
       },
       "snippet": {
-        "publishedAt": "2017-06-26T21:03:40Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "You are contagious | Vanessa Van Edwards | TEDxLondon",
-        "description": "Vanessa reveals that our behaviour, from hand gestures to how we say 'hello', changes the way others perceive our confidence,  \n\nVanessa Van Edwards is an interpersonal intelligence expert and public speaker. Her behaviour research lab ‘The Science of People’ has been featured in Fast Company, Inc, Men’s Health, Forbes, and on Fox News. She is a monthly columnist for Entrepreneur; the leading instructor in people skills on Udemy and CreativeLive; and has led training sessions at a number of Fortune 500 companies around the world. She lives in Portland, Oregon.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "publishedAt": "2023-05-18T16:01:32Z",
+        "channelId": "UCIFdbTEP7LWR71OdlThIaqw",
+        "title": "아이묭(あいみょん) - 메리골드(マリーゴールド) / [가사/번역/발음] / Lyric video",
+        "description": "원산지 표기 - https://www.youtube.com/watch?v=0xSiBpUdW4E\n\n오늘 준비한 메뉴는 아이묭 의 메리골드 입니다.\n입맛에 맞으셨으면 좋겠습니다.\n\n어제 준비한 곡이였으나,, 주방장의 불찰로 이물질(오타)가 발견되어 재업로드 합니다.\n죄송합니다.\n\n준비되는 재료는 주간 단위로 변경됩니다.\nJ-POP 메뉴의 표기는 생선\n보컬로이드 메뉴는 생선가시로 표기됩니다.\n손님의 입맛에 따라 이점 유의해 주시길 바랍니다.\n특별 주문 메뉴는 주문서(댓글)에 작성해 주시면 주방장과 협의하여 준비해 드리겠습니다.\n\n항상 저희 캣타워를 방문해 주셔서 감사합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/default.jpg",
+            "url": "https://i.ytimg.com/vi/mrLwZniMJsU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mrLwZniMJsU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mrLwZniMJsU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "TEDx Talks",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-06-26T21:03:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Kls0EXy6Op-V0lY_pOJUEo_iWRY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RcGyVTAoXEU"
-      },
-      "snippet": {
-        "publishedAt": "2013-09-03T21:19:54Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to make stress your friend | Kelly McGonigal",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nStress. It makes your heart pound, your breathing quicken and your forehead sweat. But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mrLwZniMJsU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mrLwZniMJsU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "편집사",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-09-03T21:19:54Z"
+        "publishTime": "2023-05-18T16:01:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X8Jax9h7Ru0kUElQuQ2NG7DbPyg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OtSlNDxcRgw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-09T14:56:43Z",
+        "channelId": "UCliRjcwaUW-ozT9TeYTfoug",
+        "title": "💫아직 어른이 되는 것이 두려운 너에게 : AJR - Don’t Throw Out My Legos [가사/해석/번역/lyrics]",
+        "description": "멜론 기준 일 평균 시청자 100미만, 좋아요 1063\n이 정도면 사람들이 모르는 띵곡 맞죠?\n\n구독과 좋아요는 큰 힘이 됩니다 ❤️\n(Don't forget to subscribe, like and leave a comment ❤️)\n\n영상출처: \n토이 스토리3 (Toy Story 3, 2010)\n토이 스토리4 (Toy Story 4, 2019)\n코코 (Coco, 2018)\n\n#AJR  #내한 #띵곡 #레고\n\n💜공연 정보💜\n5/26(Fri)\nMIKA, GREGORY PORTER, JUSTIN HURWITZ JAZZ, 크러쉬, AKMU, TAI VERDES, 폴킴, THE SOUL REBELS, CONOR MAYNARD, MINA OKABE, 김필, 이진아, 바밍타이거, EGO APARTMENT, 대니구&조윤성트리오, 석지민트리오\n\n5/27(Sat)\nSERGIO MENDES, 태양, ROBERT GLASPER, CHRISTOPHER, 에픽하이, MAX, LOLO ZOUAÏ, CHRISTIAN KURIA, WOUTER HAMEL, SPANISH HARLEM ORCHESTRA, 송영주콰르텟, 새소년, 오은철, 박기훈퀸텟\n\n5/28(Sun)\nDAMIEN RICE, AJR, CHRIS BOTTI, CHRISTIAN McBRIDE’s NEW JAWN, SIGRID, 장기하, 빈지노, 정승환, BOYWITHUKE, KAMAL., 정세운, MATT MALTESE, JOEY ALEXANDER, 존노X고영열, 윤석철트리오, 스카재즈유닛\n\nand many more\n\n▶예매: 인터파크 티켓(https://lrl.kr/nfsS)\n인터파크 글로벌 페이지(https://lrl.kr/nfsT)\nW컨셉(https://lrl.kr/IgHW)\n\n[제15회 서울재즈페스티벌 2023]\n일정: 2023년 5월 26일(금) ~ 5월 28일(일)\n장소: 올림픽공원(88잔디마당, KSPO DOME, SK핸드볼경기장, 88호수수변무대)\nWHO’S NEXT?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OtSlNDxcRgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OtSlNDxcRgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OtSlNDxcRgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OtSlNDxcRgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OtSlNDxcRgw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쏘플 soso playlist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-09T14:56:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4RcfgqxaFZqztkis1nxBVLsi82E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PdsKpM2N9cU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T04:25:16Z",
+        "channelId": "UCp0OmOWCVNzKh4du1dCvpLQ",
+        "title": "틱톡 12억 회! J-POP 괴물 신예! [NIGHT DANCER] 원곡자 imase가 등장해서 레전드 챌린지 찍어버림ㄷㄷ | 전부 노래 잘함 Ep.51 [ENG]",
+        "description": "갈수록 스케일 커지는 전.노.잘 섭외력,,,👍\n이번엔 J-POP 괴물신예 [NIGHT DANCER] 원곡자 imase가 난입해서 사람들이랑 역대급 챌린지를 찍어버렸다는데…🙀\n\n00:07:48 이마세(imase) 등장 리드\n00:08:58 NIGHT DANCER - 이마세(imase)\n00:11:24 팬들과 함께하는 NIGHT DANCER 챌린지🕺\n00:13:46 ‘귀여워서 미안해’ 챌린지 이마세(imase) ver.💋\n\n——————————————————————————————————————————————————————————\n노래 잘하는 사람만 모였다 🎶 전부 노래 잘함 🎵\n⏰  매주 금요일 오후 6시 ⏰\n🔔 구독&좋아요&알림설정 🔔\n구독👉https://www.youtube.com/c/스튜디오피넛버터StudioPeanutButter\n인스타 팔로우👉https://www.instagram.com/studio.peanutbutter/\n——————————————————————————————————————————————————————————\n\n#이마세 #imase #いませ #イマセ #NIGHTDANCER #나이트댄서 #챌린지 #내한 #J-POP #제이팝 #해외가수 #한강버스킹 #문세윤 #전부노래잘함",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PdsKpM2N9cU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PdsKpM2N9cU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PdsKpM2N9cU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PdsKpM2N9cU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PdsKpM2N9cU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스튜디오 피넛버터 - Studio Peanut Butter",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T04:25:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0r9vO1byEwQ8aXF-Zc2CRs44f_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B7ypdHnjlDI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-26T10:58:00Z",
+        "channelId": "UCc04PZRufpCa3CcDSpju-fQ",
+        "title": "역대급 라이브🎸 아이묭 - 사랑을 전하고 싶다든가",
+        "description": "#aimyon #아이묭 #사랑을전하고싶다던가 #라이브\n\n헉.. 200만뷰! 다들 좋아해주셔서 감사합니다 😀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B7ypdHnjlDI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자막냥이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-26T10:58:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aVWPuGQ0JioT-gBLdLZ35KVjCDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fjfd7ahHLh0"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-26T13:25:51Z",
+        "channelId": "UC60QjTEqTI3JNEgJ49vHqtQ",
+        "title": "191126 후쿠토미 츠키(福富つき) - Marigold",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fjfd7ahHLh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fjfd7ahHLh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fjfd7ahHLh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fjfd7ahHLh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fjfd7ahHLh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "별사탕",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-26T13:25:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RU5yyR8ndsov-UBsfvopw2vvDW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hH-eSqionX0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T03:28:19Z",
+        "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 찰리푸스는 전설이다🔥 찰리푸스의 숨은 명곡부터 유명한 노래까지 𝐂𝐡𝐚𝐫𝐥𝐢𝐞 𝐏𝐮𝐭𝐡 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hH-eSqionX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hH-eSqionX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hH-eSqionX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hH-eSqionX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hH-eSqionX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-10T03:28:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wIr1lVKr-9CQ45fNoG7gtkfosqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4rBapPlP7KY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-07T11:22:11Z",
+        "channelId": "UCqJUF_lQfbhZ7FxRAAOzr5g",
+        "title": "아이묭 (あいみょん)－마리골드 (マリーゴールド) 라이브",
+        "description": "HY SKY FES 2023\n230319",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4rBapPlP7KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4rBapPlP7KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4rBapPlP7KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4rBapPlP7KY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4rBapPlP7KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오제민",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-07T11:22:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LE9tSutV7X5Hxo_g9j0-d8SUORM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yOlBsus_Hno"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T02:37:54Z",
+        "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 제이팝 붐은 온다! 한번쯤은 들어본 유명한 J-POP 부터 숨은 명곡까지 | 요루시카, YOASOBI, 아이묭",
+        "description": "#플레이리스트 #playlist #jpop \n#제이팝 #아이묭 #요루시카 #YOASOBI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T02:37:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TwgZZ0-W7KkL0w733asf66s4_Lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ihhdNqG32cw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-31T18:23:34Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "[직키픽🔥🔥] 너는 록을 듣지 않아: あいみょん(Aimyon) - 君はロックを聴かない (Kimi Wa Rock Wo Kikanai) (2017) [가사해석/번역]",
+        "description": "#jpop #노래추천 #가사해석 \n\n제목을 보면 왠지 요즘 애들은 말이야...?\n가 나올 것 같지만 실제 가사는 너무나도 풋풋한 추억으로 가득한 곡입니다.\n내가 좋아하는지도 몰랐던 사람이 이별로 힘들어할 때\n아주 서투르지만 제 나름대로 위로해주려 손뼉도 쳐보고,\n내가 좋아하는 음악도 들려주는 장면이 머릿속에서 뚜렷하게 묘사되어요.\n너는 록 같은 거 안 좋아하는 거 알지만 난 이런 노래로 사랑을 극복해왔으니 너도 나처럼 위로받는 느낌을 받았으면 좋겠다는 두근거리는 마음으로 노래를 들려주는 청춘이 생각나네요 🥲\n정작 나는 그런 기억 한 번도 없는데 이 가수... 내 추억을 조작한다...\n그러다가 후반 가서는 ‘나는 이 친구를 좋아하는구나’ 하고 깨닫게 되는 그런 장면을 아이묭만의 울퉁불퉁하지만 솔직한 가사로 표현한 게 정말 많이 와닿아요.\n\n아이묭 노래는 따라부르기에도 쉬운데 가사까지 청춘 그 자체이니,,\n인기가 없을 수가 없지요🥺\n그리고 이 곡은 요코하마 아레나 라이브가 진짜예요...\n그 버전이 너무 좋아서 썸네일까지 그 영상의 스틸로 만들어버렸네요..ㅎ\n라이브 버전인 줄 알고 들어오신 분들께는 정말 죄송합니다..\n(그렇게 됐다)\n라이브 아직 보시지 않은 분들은 꼭 보시는 것을 추천드립니다!\nhttps://youtu.be/cJnO-Y_YnFg\n\n아이묭 저번 영상 이후로 제작 지원해주신 워너뮤직코리아 담당자분들께 감사드립니다.\n\n*이 영상은 워너뮤직코리아의 지원을 받아 제작되었습니다.\n\n\nInstagram: @zick_ii",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ihhdNqG32cw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-31T18:23:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "02nDmQOUwljLV2bGbbXGrKDhrkA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UXrr58y-PtA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T21:49:16Z",
+        "channelId": "UCc04PZRufpCa3CcDSpju-fQ",
+        "title": "아이묭 - 🌻Marigold(마리골드)🌻",
+        "description": "#aimyon #live #marigold #아이묭 #메리골드\n\n자막 출처 - 나무위키...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UXrr58y-PtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UXrr58y-PtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXrr58y-PtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UXrr58y-PtA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UXrr58y-PtA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자막냥이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T21:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BbhQU5Pqdw8y0Cme5NElP_SVDXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8XDI2kk6qQU"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-21T16:50:40Z",
+        "channelId": "UC0yqtliJxC9HC2TcftlvM6g",
+        "title": "💫우린 길 잃은 별들인가요?💫｜Adam Levine - Lost Stars [가사/해석/번역]",
+        "description": "구독과 좋아요는 큰 힘이 됩니다 :)\nThanks for watching please like and subscribe :)\n\n음원출처 : https://www.youtube.com/watch?v=cL4uhaQ58Rk\n영상출처 : 비긴 어게인 (Begin Again, 2014)\n\n#AdamLevine #비긴어게인\u200b #팝송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XDI2kk6qQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XDI2kk6qQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XDI2kk6qQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8XDI2kk6qQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8XDI2kk6qQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "song for you.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-21T16:50:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zqqW6TPnfD3Nb4a9VWxDyDsDmF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kSUiMc97dKM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T10:57:36Z",
+        "channelId": "UCa9x1wRL5J0jv89AX0jZ1sg",
+        "title": "[Playlist] 다들 잘 아는 J-POP",
+        "description": "※ 이 영상은 수익을 창출하지 않습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kSUiMc97dKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kSUiMc97dKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kSUiMc97dKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kSUiMc97dKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kSUiMc97dKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K0P1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T10:57:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XjD4ZD20UkmTGWn1mfLoxPv1nN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xbc6eDHmXkE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-05T14:24:37Z",
+        "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 아이묭의 노래를 전하고 싶다든가 | 아이묭 노래 모음 あいみょん",
+        "description": "#플레이리스트 #playlist #아이묭\n#Aimyon #あいみょん #아이묭플리\n#jpop #제이팝",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xbc6eDHmXkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-05T14:24:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BkNUW1hyqxAV4xLVLuLuE7AicCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BbDHmw8NJQw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-29T13:16:30Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "네 세계에 내 발자국 하나 남았으면 돼: YORUSHIKA(ヨルシカ) - 左右盲 (영화 \"오늘 밤, 세계에서 이 사랑이 사라진다 해도 OST) (2022) [가사해석/번역]",
+        "description": "#jpop #가사해석\n\n좌우맹이란,\n'특별한 증세나 장애가 있지 않은 사람이 왼쪽 오른쪽을 한 번에 파악할 수 없는 증세'라고 합니다.\n이별 후에 사랑했던 사람을 기억하는데 기억이 잘 나지 않는 것을\n이 증세에 비유한 거라고 하네요. \n기억을 잃는다라는 영화의 큰 줄거리에 너무나도 잘 맞게,\n또 어릴 적 우리에게 큰 눈물을 안겨준 오스카 와일드의 '행복한 왕자'라는\n동화를 모티브로 삼은 가사를 서정적으로, 예술적으로 잘 풀어내서 너무 놀랐어요.\n이래서 요루시카 요루시카 하는구나...\n\n정말 솔직하게 말씀드리자면 처음 가사를 읽고\n아~ 또 제이팝 특유의 난해한 가사 나왔죠w\n하면서 코웃음을 쳤는데요..(정말 죄송합니다..반성합니다)\n번역하면서 마지막 끄트머리 가서는 눈물만 줄줄...😢\n인정합니다 요루시카...\n요루시카도 한창 흥할 때 주변에서 막 들어보라길래\n추천만 잔뜩 받고ㅎㅎ.. 사실 잘 안 들었는데\n앞으로 생각나면 더 찾아들을 것 같아요.\n이런 감성을 몇 년 간 놓치고 있었다는 생각을 하게 되는 아티스트더라구요.\n안 본 새에 갑자기 띵곡이 우르르 쏟아져 나오는 제이팝 시장...\n\n출근할 때 비몽사몽한 상태에서 엄청나게 큰 지하철 광고를 보면서\n웬일로 일본 영화가 우리나라에 들어왔네? 하면서\n왜 그렇게 익숙한 지 모르겠는데 제 눈에는 너무 익숙한\n나니와단시의 미치에다 슌스케와 눈이 부신 미모의 후쿠모토 리코가\n제 눈을 사로잡길래 가던 길 멈추고 광고판을 쳐다봤던 기억이 나요.\n(모두가 바쁜 출근시간 웬 그지꼴에 혈색 안 좋은 사람이\n커다란 광고판 앞에 가만히 서서 멍때리는 걸 본 적이 있으시다면\n네... 접니다...)\n\n그런데 PV 처음 봤을 때 주인공의 친구 역인 후루카와 코토네의 연기가\n자꾸만 더 눈이 가던 거 있죠?\n시간 나면 이분 필모그래피 훑으려구요..\n\n\n* 이 영상은 유니버설뮤직코리아의 지원을 받아 제작되었습니다.\n\nInstagram: @zick_ii",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BbDHmw8NJQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BbDHmw8NJQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BbDHmw8NJQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BbDHmw8NJQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BbDHmw8NJQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-29T13:16:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "caTBCo3UC34Wrt5WYFZjoYhQADE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KoKc916xR7k"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-10T16:55:28Z",
+        "channelId": "UCqFWFsTY26I6sfziKRYIvxA",
+        "title": "[Stage Mix] 아이묭 - 너는 록을 듣지 않아 ( あいみょん - 君はロックを聴かない )｜한글 자막",
+        "description": "-\nいくつかの映像を一つに集めました。 最も素敵なあいみょんの瞬間を、一緒に楽しみたいと思って頑張ってみました。シンクロが合わないかもしれませんが、 「僕なりの精一杯」でした。\nローマ字だけを追加したりする再アップロードは禁止です。\n\n여러 개의 영상을 하나로 모았습니다. 가장 멋진 순간의 아이묭을, 함께 즐기고 싶어서 만들어봤어요. 싱크가 안 맞을 수도 있지만 제 나름의 최선이었습니다.\n로마지만을 추가한 재업로드는 금지입니다.\n\nDO NOT RE-UPLOAD IT AND RE-EDIT WITHOUT MY PERMISSION.\n\n\n\nあいみょん - 君はロックを聴かない\nAimyon - Kimi Wa Rock Wo Kikanai\n아이묭 - 너는 록을 듣지 않아",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KoKc916xR7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KoKc916xR7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KoKc916xR7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "mori mori",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-10T16:55:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T8-CQceZvxlMhUz5DXxR6Dr37hc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ltwazF77Owg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T12:31:40Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "[직키픽🔥🔥] 사랑을 전하고 싶다든가: あいみょん(aimyon) - 愛を伝えたいだとか (Ai wo Tsutaetaidatoka) (2017) [가사해석/번역]",
+        "description": "#jpop #노래추천 #가사해석\n\n이 노래를 올리게 될 줄이야...\n2017년에 발매한 뒤로부터 쭉 사랑해 마지않는 아이묭의 '사랑을 전하고 싶다든가'입니다.\n\n부르는 아이묭은 여자지만 남자 입장에서 쓴 중성적이고 서정적인 느낌의,\n듣는 저도 비참해지면서 학창시절 풋풋했던 그 시절로 돌아간 것만 같은 펑키한 곡입니다.\n학생이라고 암시하는 부분은 없지만 이상하게 떠오르는 건\n아직 풋풋한 남학생이 이루지 못할 것 같은 사랑에 용기도 못 내고 괴로워하는 장면이네요.\n\n처음 들었을 때는 괜찮은 곡이다 하고 몇 번 듣고 말았는데\n어느 순간부터 불현듯 멜로디가 갑자기 생각나더니,\n그 뒤로 제 플레이리스트에서 빠져나오지 않고 몇 년 간 계속 제 노동요를 책임져주고 있어서, 저에겐 정말 특별한 곡입니다.\n부디 올리고 나서도 제 플레이리스트에서 빠져나오지 않았으면 좋겠어요😔\n\n제가 유튜브를 2018년부터 시작했는데 \n원래 처음에 유튜브 채널을 만들었을 때의 제 계획은\n\"서구권팝송 70:제이팝 20:그 외 나라 10의 비율로 업로드를 하자\"였어요.\n그러나 제이팝을 그렇게 좋아했으면서도 그 동안 올리지 못했던 또 하나의 이유가\n2019년부터 시작했던 노재팬 열풍으로 식게 되어버린 흥미 때문이라고 하면 믿으시겠나요?...\n그러다보니 서구권팝송 99 그 외 나라 1이 되어버렸지 뭐예요??😔\n\n그래도 요즘 제이팝 흥해서 좋네요\n오타쿠가 장악한 오리콘 차트지만...\n고백합니다... 그 오타쿠 사운드도 꽤나 좋아서 십 몇 년 전부터 몰래 숨어들었어요..\n이제 제이팝 들으면서 덕심 뻐렁차서 눈물 흘리고 있는데 (예를 들어 Ado나 퍼퓸이라던지)\n이어폰이 빠져나가거나 블루투스 연결이 꼬였다거나 하는 이유로\n오디오가 새어나갔을 때 수치스러워하지 않아도 되는 시대가 어서 왔으면 좋겠어요...\n노래 좋은 거 정말 많은데...🥲\n\n그리고 제가 유튜브를 시작한 뒤로 오직 저에게만 치명적인 고질병 하나가 생겼는데\n그것은 바로 직키에 올리는 노래들은 아무리 좋아했어도 그 뒤로는 전혀 듣지 못하게 되는 병이에요...\n그 병 때문에 이 노래를 잃을까봐 그동안 못 올리고 있었는데,\n어느날 추천해줬더니 친구가 노래 좋다고 고맙다는 얘기를 해줘서 이렇게 만들어서 올리네요 ㅎㅎ\n신청곡에도 많이 올려주신 곡이에요.\n좋은 곡 신청해주셔서 정말 감사합니다 :) \n\n참고로 신청곡은 아래 영상에 댓글로 써주시면 제가 늘 확인하고 들어봅니다👇\nhttps://www.youtube.com/watch?v=u9pRm9ihiJs\n\n\nInstagram: @zick_ii",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ltwazF77Owg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T12:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OZBvSkgxck4HiFHrO6WwxO251E8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_Vr4CsbaGho"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-06T12:50:37Z",
+        "channelId": "UC2VE3ELS_PdDqT1bGBEac-A",
+        "title": "[𝐉-𝐏𝐎𝐏] 💗 아이묭 노래 모음 💗 아이묭 플리 다이스키 💗 [가사해석/자막/Lyrics]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Vr4CsbaGho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Vr4CsbaGho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Vr4CsbaGho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Vr4CsbaGho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "제이리스트 JAYLIST",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-06T12:50:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "15M1Iptkxsyt_qlWyUvdKpuODsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BDziP4-TD2Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-28T15:51:07Z",
+        "channelId": "UC2VE3ELS_PdDqT1bGBEac-A",
+        "title": "[𝐉-𝐏𝐎𝐏] 아이묭💫💖 [가사해석/자막/Lyrics] Aimyon歌",
+        "description": "#Aimyon #あいみょん #아이묭",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BDziP4-TD2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BDziP4-TD2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BDziP4-TD2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BDziP4-TD2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BDziP4-TD2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제이리스트 JAYLIST",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-28T15:51:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yEv67eVSCdY0tHtYykwe0dVWz2Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zKWFayxsMP0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T04:43:41Z",
+        "channelId": "UCt_COpqtf6swzmAud6ckTZg",
+        "title": "격하게 원한다,, 내한,, 🧡 아이묭 (Aimyon) - 사랑을 전하고 싶다든가 (愛を伝えたいだとか) (가사번역/라이브)",
+        "description": "아이묭 (Aimyon, あいみょん) - 사랑을 전하고 싶다든가 (愛を伝えたいだとか) (가사번역/라이브)\n🧡\n트와이스 친구들 손잡고 한국와",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zKWFayxsMP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zKWFayxsMP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zKWFayxsMP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zKWFayxsMP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zKWFayxsMP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여자 노래만 올리는 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T04:43:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KsJ81ByJk-_FcqBIZYZYYaRI59I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mEZqJ65ra08"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-05T14:26:42Z",
+        "channelId": "UCliRjcwaUW-ozT9TeYTfoug",
+        "title": "🔥해외 차트 점령 중인 화제의 애니 OST : YOASOBI - 아이돌(アイドル) [가사/해석/번역/lyrics] | 최애의 아이 OP (스포주의)",
+        "description": "이거 보려고 라프텔 멤버십 가입했는데\n곧 넷플릭스에 뜨네...\n\n요즘 재밌게 보고 있는 애니 '최애의 아이' OST입니다\n해외에서 난리 났어요 지금... 그래서 내 알고리즘도 점령 당함.... ㅋ\n처음엔 이게 뭔 노래지? 했는데 3번 들으니까 빠져버렸어요\n가사가 애니 내용 그 자체입니다. 애니 보고 다시 들으면 눈물 납니다\n곧 넷플릭스에서도 나온다고 하니 보실 분들은 보세요... 재밌습니다\n\n구독과 좋아요는 큰 힘이 됩니다 ❤️\n(Don't forget to subscribe, like and leave a comment ❤️)\n\n영상출처: \n최애의아이 (推しの子, 2023)\n\n#최애의아이 #요아소비 #애니OST\n\n모든 수익은 원저작권자에게 돌아갑니다.\n영상 조회수로 수익 창출 X\n(This channel doesn't generate revenue)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mEZqJ65ra08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mEZqJ65ra08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mEZqJ65ra08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mEZqJ65ra08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mEZqJ65ra08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쏘플 soso playlist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-05T14:26:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8eSuLicdl7d3sCKaZZ73x1HB7T0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tR8D8XrMjM4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-02T14:49:35Z",
+        "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+        "title": "💐언젠가는 말린 꽃처럼 바래가겠지: 優里(Yuuri) - ドライフラワー(Dried Flower) (2021) [가사해석/번역]",
+        "description": "제이팝 올릴 때마다 칭긔분들께서 추천곡으로 하도 써주셔서 \n언젠간 꼭 올려야지..하고 벼르고 있던 참에\n어떻게 타이밍 맞게 지원해주신 소니뮤직코리아 담당자님께 큰절 올립니다.\n\n제이팝이 이렇게 흥하지 않던 어느날\n저는 갑자기 제이팝에 꽂혀서 아~ 제이팝 안 들은지 꽤 됐다 라고 하면서\n일본 문화에 아주 빠삭한 친구에게 요즘 제이팝 좋은 거 많다고 하나 추천해달라고 볏짚털듯 탈탈 터니\n그의 입에서 맨 첫타자로 튀어나온 노래가 이 드라이플라워였어요..\n그래서 이 노래를 듣자마자 올려야지 하고 생각만 하고 있었는데\n조금 시간이 지나고 보니 베텔게우스가 흥하고...\n드라이플라워도 갑자기 흥하고...\n\n요즘 저도 제이팝 디깅하는 즐거움에 사는 것 같아요 ㅋㅋ\n아주 흥미로운 나날들이에요 ㅎㅎ\n부디 휴대폰 스피커 조절 못해서 온 사무실에 울려퍼지는 일은 없었으면 좋겠어요.. 😅\n제이팝이 흥해서 더는 부끄럽지 않은 날이 오길 바라며..😪\n\n\n* 이 영상은 소니뮤직코리아의 지원을 받아 제작되었습니다.\n\nInstagram: @zick_ii\n#가사해석 #jpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tR8D8XrMjM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tR8D8XrMjM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tR8D8XrMjM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tR8D8XrMjM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tR8D8XrMjM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "직키(Zickii)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-02T14:49:35Z"
       }
     }
   ]
