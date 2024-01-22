@@ -10,14 +10,13 @@ export default function VideoDetail() {
   } = useLocation();
   const { title, channelId, channelTitle, description } = video.snippet;
   const [more, setMore] = useState(true);
-  const [isObserve, setIsObserve] = useState(true);
 
   const handleChange = () => {
     setMore((prev) => !prev);
   };
 
   const preRef = useRef();
-  const [height] = useResizeObserver(preRef, isObserve);
+  const [height] = useResizeObserver(preRef);
 
   return (
     <section className="flex flex-col lg:flex-row gap-x-4">

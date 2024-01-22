@@ -26,9 +26,8 @@ export default function useResizeObserver(ref, isResize) {
 
   // 4. isResize 값에 따라 관측 시작&종료한다.
   useEffect(() => {
-    if (isResize) observer.observe(ref.current);
-    else observer.unobserve(ref.current);
-  }, [isResize]);
+    observer.observe(ref.current);
+  }, [observer, ref]);
 
   // 5. 변경된 width, height, top, left를 반환한다.
   return [height];
