@@ -15,20 +15,22 @@ export default function SearchHeader() {
 
   useEffect(() => setText(keyword || ""), [keyword]);
   return (
-    <header className="w-full flex p-4 text-2xl border-b border-zinc-600 mb-4">
+    <header className="w-full flex p-4 text-xl  mb-4">
       <Link to="/" className="flex items-center">
         <BsYoutube className="text-4xl text-brand" />
-        <h1 className="font-bold ml-2 text-3xl">Youtube</h1>
+        <h1 className="ml-1 mt-1 text-3xl font-youtube font-bold tracking-tighter">
+          Youtube
+        </h1>
       </Link>
       <form className="w-full flex justify-center" onSubmit={handleSubmit}>
         <input
-          className="w-7/12 p-2 outline-none bg-black text-gray-50"
+          className="w-7/12 px-5 py-2 bg-black text-gray-50 outline-none rounded-l-full"
           type="text"
           value={text}
           onChange={handleChange}
           placeholder="Search..."
         />
-        <button className="bg-zinc-600 px-4">
+        <button className="px-6 bg-zinc-800 rounded-r-full hover:brightness-105">
           <BsSearch />
         </button>
       </form>

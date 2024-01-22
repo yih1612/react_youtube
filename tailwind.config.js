@@ -7,6 +7,9 @@ module.exports = {
         brand: "#FF0000",
       },
     },
+    fontFamily: {
+      youtube: ["youtube"],
+    },
   },
   plugins: [],
 };
