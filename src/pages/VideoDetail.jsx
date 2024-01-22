@@ -38,7 +38,7 @@ export default function VideoDetail() {
             >
               {description}
             </pre>
-            {height > 72 && (
+            {height > 71 && (
               <button className="pl-1 pt-1 font-black" onClick={handleChange}>
                 {more ? "더보기" : "간략히"}
               </button>
